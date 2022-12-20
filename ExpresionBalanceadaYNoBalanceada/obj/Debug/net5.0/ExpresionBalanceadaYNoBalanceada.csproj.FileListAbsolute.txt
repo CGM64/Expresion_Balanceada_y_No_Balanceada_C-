@@ -1,0 +1,16 @@
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\bin\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.exe
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\bin\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.deps.json
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\bin\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.runtimeconfig.json
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\bin\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.runtimeconfig.dev.json
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\bin\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.dll
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\bin\Debug\net5.0\ref\ExpresionBalanceadaYNoBalanceada.dll
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\bin\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.pdb
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.csproj.AssemblyReference.cache
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.AssemblyInfoInputs.cache
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.AssemblyInfo.cs
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.dll
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ref\ExpresionBalanceadaYNoBalanceada.dll
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.pdb
+D:\Proyectos C#\ExpresionBalanceadaYNoBalanceada\obj\Debug\net5.0\ExpresionBalanceadaYNoBalanceada.genruntimeconfig.cache

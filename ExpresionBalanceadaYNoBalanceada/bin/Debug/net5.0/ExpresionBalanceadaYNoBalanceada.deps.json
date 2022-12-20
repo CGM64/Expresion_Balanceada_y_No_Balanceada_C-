@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExpresionBalanceadaYNoBalanceada/1.0.0": {
+        "runtime": {
+          "ExpresionBalanceadaYNoBalanceada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpresionBalanceadaYNoBalanceada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
